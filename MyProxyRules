@@ -1,0 +1,74 @@
+rules:
+  # Key-Word Rules
+  - DOMAIN-KEYWORD,www.coze.com
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-KEYWORD,mastodon
+  - DOMAIN-KEYWORD,techhub.social
+  - DOMAIN-KEYWORD,macked
+  - DOMAIN-KEYWORD,mobile.eum-appdynamics.com
+  - DOMAIN-KEYWORD,aa.online-metrix.net
+  - DOMAIN-KEYWORD,cdntm.hsbc.com.hk
+  - DOMAIN-KEYWORD,cdnbc-logs.hsbc.com
+  - DOMAIN-KEYWORD,d0r7clfv2slbaskjrbpfrgqzn4qtocrktla5akcjc611196246f6d3c6sac.d.aa.online-metrix.net
+  - DOMAIN-KEYWORD,nssurge.com
+
+  # Suffix Rules
+  - DOMAIN-SUFFIX,5beresim-file.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,airhorn.solutions
+  - DOMAIN-SUFFIX,airhornbot.com
+  - DOMAIN-SUFFIX,bigbeans.solutions
+  - DOMAIN-SUFFIX,dis.gd
+  - DOMAIN-SUFFIX,discord-activities.com
+  - DOMAIN-SUFFIX,discord.co
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.design
+  - DOMAIN-SUFFIX,discord.dev
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.gift
+  - DOMAIN-SUFFIX,discord.gifts
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discord.new
+  - DOMAIN-SUFFIX,discord.store
+  - DOMAIN-SUFFIX,discord.tools
+  - DOMAIN-SUFFIX,discordactivities.com
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.io
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordapp.page.link
+  - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,discordmerch.com
+  - DOMAIN-SUFFIX,discordpartygames.com
+  - DOMAIN-SUFFIX,discordsays.com
+  - DOMAIN-SUFFIX,discordstatus.com
+  - DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+  - DOMAIN-SUFFIX,watchanimeattheoffice.com
+
+  # Viber Rules
+  - DOMAIN-SUFFIX,viber.com
+  - DOMAIN-SUFFIX,cdn.viber.com
+  - DOMAIN-SUFFIX,www.viber.com
+  - DOMAIN-SUFFIX,account.viber.com
+  - DOMAIN-SUFFIX,api.viber.com
+  - DOMAIN-SUFFIX,share.viber.com
+  - DOMAIN-SUFFIX,stickers.viber.com
+  - DOMAIN-SUFFIX,media.viber.com
+  - DOMAIN-SUFFIX,mediaserver.viber.com
+  - DOMAIN-SUFFIX,calls.viber.com
+  - DOMAIN-SUFFIX,msg.viber.com
+  - DOMAIN-SUFFIX,msgsrv.viber.com
+  - DOMAIN-SUFFIX,groups.viber.com
+  - DOMAIN-SUFFIX,ads.viber.com
+  - DOMAIN-SUFFIX,analytics.viber.com
+  - DOMAIN-SUFFIX,dl-media.viber.com
+  - DOMAIN-SUFFIX,dl-content.viber.com
+  - DOMAIN-SUFFIX,out.viber.com
+  - DOMAIN-SUFFIX,api.usr.viber.com
+  - DOMAIN-SUFFIX,api.aws.viber.com
+  - DOMAIN-SUFFIX,*.viber.com
+  - IP-CIDR,52.0.0.0/14
+  - IP-CIDR,69.0.0.0/16
+  - IP-CIDR,103.0.0.0/16
+  - DOMAIN-KEYWORD,viber-aws
+  - DOMAIN-KEYWORD,viber-akamai
