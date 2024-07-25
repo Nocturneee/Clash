@@ -1,6 +1,3 @@
-好的，这里是完整的 Clash 配置文件：
-
-```yaml
 rules:
   # YouTube and Google Video Domains
   - DOMAIN-SUFFIX,ggpht.cn
