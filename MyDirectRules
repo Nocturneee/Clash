@@ -1,4 +1,5 @@
-  -   - DOMAIN-SUFFIX,vcrfiw.lol
+rules:
+  - DOMAIN-SUFFIX,vcrfiw.lol
 # 微软
   - DOMAIN,res.cdn.office.net
   - DOMAIN-SUFFIX,fs.microsoft.com
