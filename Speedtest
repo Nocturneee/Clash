@@ -1,4 +1,4 @@
-  rules:
+rules:
   - DOMAIN-SUFFIX,peedtest-net.mk.de
   - DOMAIN-SUFFIX,speedtest.rt.ru
   - DOMAIN-SUFFIX,peedtest-sg.cbn.id
