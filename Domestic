@@ -1,3 +1,4 @@
+rules:
   - DOMAIN,cdn.bootcdn.net
   - DOMAIN,cdn.bootcss.com
   - DOMAIN,www.layuicdn.com
