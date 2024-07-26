@@ -1,4 +1,14 @@
 rules:
+  # Rockstar Games 相关域名
+  - DOMAIN-SUFFIX,rockstargames.com
+  - DOMAIN-SUFFIX,prod.cloud.rockstargames.com
+  - DOMAIN-SUFFIX,cloud.rockstargames.com
+  - DOMAIN-SUFFIX,socialclub.rockstargames.com
+  - DOMAIN-SUFFIX,auth.rockstargames.com
+  - DOMAIN-SUFFIX,support.rockstargames.com
+  - DOMAIN-SUFFIX,rsg.sc
+  - DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
   # Logitech G HUB 相关域名
   - DOMAIN-SUFFIX,ghub.logitech.io
   - DOMAIN-SUFFIX,logitech.io
