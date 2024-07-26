@@ -1,4 +1,25 @@
 rules:
+# Steam 相关域名
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN-SUFFIX,steamdb.info
+
+  # 中国特定的Steam域名
+  - DOMAIN-SUFFIX,steamchina.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steampowered.com.8686c.com
+  - DOMAIN-SUFFIX,csgo.wmsj.cn
+  - DOMAIN-SUFFIX,wmsjsteam.com
+
+  # 其他可能需要特殊处理的域名
+  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,vcrfiw.lol
 # 微软
   - DOMAIN,res.cdn.office.net
