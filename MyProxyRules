@@ -13,6 +13,7 @@ rules:
   - DOMAIN-KEYWORD,nssurge.com
 
   # Suffix Rules
+  - DOMAIN-SUFFIX,onion
   - DOMAIN-SUFFIX,5beresim-file.oss-cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,vercel.app
