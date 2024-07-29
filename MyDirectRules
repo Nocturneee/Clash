@@ -1,4 +1,8 @@
 rules:
+  - DOMAIN-SUFFIX,yyai8.com
+  - DOMAIN-SUFFIX,www.yyai8.com
+  - DOMAIN-SUFFIX,api.yyai8.com
+  - DOMAIN-SUFFIX,img.yyai8.com
   # Rockstar Games 相关域名
   - DOMAIN-SUFFIX,rockstargames.com
   - DOMAIN-SUFFIX,prod.cloud.rockstargames.com
