@@ -32,6 +32,7 @@ rules:
   - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamdb.info
+  - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 
   # 中国特定的Steam域名
   - DOMAIN-SUFFIX,steamchina.com
