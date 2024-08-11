@@ -20,6 +20,7 @@ rules:
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
   - DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN-SUFFIX,vcrfiw.lol
   # Logitech G HUB 相关域名
   - DOMAIN-SUFFIX,ghub.logitech.io
