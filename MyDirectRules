@@ -54,6 +54,7 @@ rules:
   # 其他可能需要特殊处理的域名
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,vcrfiw.lol
+  - DOMAIN-SUFFIX,sjygml.lol
 # 微软
   - DOMAIN,res.cdn.office.net
   - DOMAIN-SUFFIX,fs.microsoft.com
