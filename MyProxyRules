@@ -13,6 +13,7 @@ rules:
   - DOMAIN-KEYWORD,nssurge.com
 
   # Suffix Rules
+  - DOMAIN-SUFFIX,6bt0.com
   - DOMAIN-SUFFIX,blackmagicdesign.com
   - DOMAIN-SUFFIX,blackmagiccloud.com
   - DOMAIN-SUFFIX,resolve.blackmagicdesign.com
