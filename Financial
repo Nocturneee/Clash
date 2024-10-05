@@ -1,4 +1,11 @@
 rules:
+# TradingView 规则集
+  - DOMAIN-SUFFIX,api.tradingview.com
+  - DOMAIN-SUFFIX,www.tradingview.com
+  - DOMAIN-SUFFIX,chart.tradingview.com
+  - DOMAIN-SUFFIX,s.tradingview.com
+  - DOMAIN-SUFFIX,data.tradingview.com
+  - DOMAIN-SUFFIX,widget.tradingview.com
   # Schwab
   - DOMAIN-SUFFIX,schwab.com
   - DOMAIN-SUFFIX,schwabinstitutional.com
