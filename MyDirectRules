@@ -1,4 +1,13 @@
 rules:
+  - IP-CIDR,110.45.217.198/32
+  - IP-CIDR,114.108.157.209/32
+  - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+  - DOMAIN-SUFFIX,event-tracking.lbctrl.com
+  - DOMAIN-SUFFIX,api.lbctrl.com
+  - DOMAIN-SUFFIX,yyai8.com
+  - DOMAIN-SUFFIX,www.yyai8.com
+  - DOMAIN-SUFFIX,api.yyai8.com
+  - DOMAIN-SUFFIX,img.yyai8.com
   - DOMAIN-SUFFIX,public.nftstatic.com
   - DOMAIN-SUFFIX,api.saasexch.co
   - DOMAIN-SUFFIX,www.mokexweb.me
