@@ -1,4 +1,5 @@
 rules:
+  - DOMAIN-SUFFIX,cache8-hkg1.steamcontent.com
   - DOMAIN-SUFFIX,cmp3-hkg1.steamserver.net
   - DOMAIN-SUFFIX,ext6-hkg1.steamserver.net
   - DOMAIN-SUFFIX,ext3-tyo3.steamserver.net
