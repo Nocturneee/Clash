@@ -1,4 +1,5 @@
 rules:
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.ne
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamgames.com
