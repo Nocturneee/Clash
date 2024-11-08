@@ -1,4 +1,31 @@
 rules:
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-SUFFIX,microsoft.com.cn
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windows.com.cn
+  - DOMAIN-SUFFIX,windows.net.cn
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,microsoftonline.cn
+  - DOMAIN-SUFFIX,microsoftonline-p.cn
+  - DOMAIN-SUFFIX,azure.cn
+  - DOMAIN-SUFFIX,msauth.cn
+  - DOMAIN-SUFFIX,msftauth.cn
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msn.cn
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,outlook.cn
+  - DOMAIN-SUFFIX,sharepoint.cn
+  - DOMAIN-SUFFIX,live.cn
+  - DOMAIN-SUFFIX,bing.com.cn
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.cn
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,microsoftedge.com
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,xbox.com.cn
+  - DOMAIN-SUFFIX,xboxlive.cn
+  - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,cache8-hkg1.steamcontent.com
   - DOMAIN-SUFFIX,cmp3-hkg1.steamserver.net
   - DOMAIN-SUFFIX,ext6-hkg1.steamserver.net
