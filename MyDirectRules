@@ -1,4 +1,7 @@
 rules:
+  - DOMAIN-SUFFIX,cmp3-hkg1.steamserver.net
+  - DOMAIN-SUFFIX,ext6-hkg1.steamserver.net
+  - DOMAIN-SUFFIX,ext3-tyo3.steamserver.net
   - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,cmp1-hkg1.steamserver.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.ne
