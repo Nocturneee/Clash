@@ -1,4 +1,9 @@
 rules:
+  - PROCESS-NAME,Asphalt8.exe
+  - PROCESS-NAME,Asphalt8Launcher.exe
+  - PROCESS-NAME,AsphaltService.exe
+  - PROCESS-NAME,Gameloft.exe
+  - PROCESS-NAME,GameloftConnect.exe
   - PROCESS-NAME,WeChat.exe
   - PROCESS-NAME,WeChatApp.exe
   - PROCESS-NAME,QQ.exe
