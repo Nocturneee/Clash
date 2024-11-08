@@ -1,4 +1,11 @@
 rules:
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
   - IP-CIDR,110.45.217.198/32
   - IP-CIDR,114.108.157.209/32
   - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
