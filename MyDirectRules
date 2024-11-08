@@ -1,4 +1,19 @@
 rules:
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,WeChatApp.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,TIM.exe
+  - PROCESS-NAME,Steam.exe
+  - PROCESS-NAME,SteamService.exe
+  - PROCESS-NAME,wegame.exe  
+  - PROCESS-NAME,chrome.exe
+  - PROCESS-NAME,msedge.exe
+  - PROCESS-NAME,firefox.exe
+  - PROCESS-NAME,cloudmusic.exe
+  - PROCESS-NAME,QQMusic.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,BitComet.exe
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,microsoft.com.cn
   - DOMAIN-SUFFIX,windowsupdate.com
@@ -26,20 +41,6 @@ rules:
   - DOMAIN-SUFFIX,xbox.com.cn
   - DOMAIN-SUFFIX,xboxlive.cn
   - DOMAIN-SUFFIX,skype.com
-  - DOMAIN-SUFFIX,cache8-hkg1.steamcontent.com
-  - DOMAIN-SUFFIX,cmp3-hkg1.steamserver.net
-  - DOMAIN-SUFFIX,ext6-hkg1.steamserver.net
-  - DOMAIN-SUFFIX,ext3-tyo3.steamserver.net
-  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
-  - DOMAIN-SUFFIX,cmp1-hkg1.steamserver.net
-  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.ne
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamgames.com
-  - DOMAIN-SUFFIX,steamusercontent.com
-  - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamstatic.com
   - IP-CIDR,110.45.217.198/32
   - IP-CIDR,114.108.157.209/32
   - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
