@@ -1,4 +1,9 @@
 rules:
+# 长桥证券网页
+  - DOMAIN-SUFFIX,event.lbkrs.com
+  - DOMAIN-SUFFIX,event-tracking.lbkrs.com
+  - DOMAIN-SUFFIX,longbridge.com
+  - DOMAIN-SUFFIX,longportapp.com
 # TradingView 规则集
   - DOMAIN-SUFFIX,api.tradingview.com
   - DOMAIN-SUFFIX,www.tradingview.com
