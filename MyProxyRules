@@ -1,5 +1,6 @@
 rules:
   # Key-Word Rule
+  - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,yahoo.com,YahooFinanceProxy
   - DOMAIN-SUFFIX,finance.yahoo.com,YahooFinanceProxy
   - DOMAIN-SUFFIX,yimg.com,YahooFinanceProxy
