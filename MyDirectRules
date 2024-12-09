@@ -398,7 +398,6 @@ rules:
   - DOMAIN-SUFFIX,mon.zijieapi.com
   - DOMAIN-SUFFIX,vc-gate.ndcpp.com
   - DOMAIN-SUFFIX,mssdk.bytedance.com
-  - DOMAIN-SUFFIX,
   - DOMAIN-SUFFIX,prod.otel.kaizen.nvidia.com
   - DOMAIN-SUFFIX,ops.gx.nvidia.com
   - DOMAIN-SUFFIX,events.gfe.nvidia.com
