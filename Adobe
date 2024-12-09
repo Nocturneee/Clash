@@ -1,5 +1,7 @@
 rules:
-  - DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
+  - DOMAIN-SUFFIX,pre-signed-firefly-prod.s3-
+accelerate.amazonaws.com
+  - DOMAIN-SUFFIX,cc-ext-prod-pkgs.s3.amazonaws.com
   - DOMAIN-SUFFIX,10xfotolia.com
   - DOMAIN-SUFFIX,2o7.net
   - DOMAIN-SUFFIX,acrobat.com
