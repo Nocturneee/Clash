@@ -1,4 +1,5 @@
 rules:
+  - DOMAIN-SUFFIX,ims-prod06.adobelogin.com
   - DOMAIN-SUFFIX,pre-signed-firefly-prod.s3-
 accelerate.amazonaws.com
   - DOMAIN-SUFFIX,cc-ext-prod-pkgs.s3.amazonaws.com
