@@ -150,7 +150,6 @@ rules:
   - DOMAIN-SUFFIX,wmrt.trafficmanager.net
   # Microsoft Edge 相关
   - DOMAIN-SUFFIX,msedge.api.cdp.microsoft.com
-  - DOMAIN-SUFFIX,edge.microsoft.com
   - DOMAIN-SUFFIX,msedge.sf.trafficmanager.net
   # Xbox 相关服务
   - DOMAIN-SUFFIX,xbox.com
