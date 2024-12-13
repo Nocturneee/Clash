@@ -179,7 +179,6 @@ rules:
   - PROCESS-NAME,WeChatApp.exe
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,wegame.exe  
-  - PROCESS-NAME,msedge.exe
   - PROCESS-NAME,cloudmusic.exe
   - PROCESS-NAME,QQMusic.exe
   - PROCESS-NAME,Thunder.exe
