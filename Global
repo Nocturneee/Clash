@@ -1,4 +1,5 @@
 rules:
+  - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN,pki.goog
   - DOMAIN,addons.mozilla.org
   - DOMAIN,ees.elsevier.com
