@@ -3,3 +3,4 @@ rules:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,shared.fastly.steamstatic.com
   - DOMAIN-SUFFIX,store.fastly.steamstatic.com
+  - DOMAIN-SUFFIX,video.fastly.steamstatic.com
