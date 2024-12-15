@@ -1,5 +1,6 @@
 rules:
   #Steam
+  - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steamusercontent.com
