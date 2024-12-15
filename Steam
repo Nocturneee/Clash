@@ -1,3 +1,4 @@
 rules:
   - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,shared.fastly.steamstatic.com
