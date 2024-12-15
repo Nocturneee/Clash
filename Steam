@@ -4,3 +4,25 @@ rules:
   - DOMAIN-SUFFIX,shared.fastly.steamstatic.com
   - DOMAIN-SUFFIX,store.fastly.steamstatic.com
   - DOMAIN-SUFFIX,video.fastly.steamstatic.com
+  - DOMAIN-SUFFIX,store.steampowered.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,clngaa.com
+  - DOMAIN-SUFFIX,ksyna.com
+  - DOMAIN-SUFFIX,bscstorage.net
+  - DOMAIN-SUFFIX,eccdnx.com
+  - DOMAIN-SUFFIX,pinyuncloud.com
+  - DOMAIN-SUFFIX,steamchina.com
+  - DOMAIN-SUFFIX,myqcloud.com
+  - DOMAIN-SUFFIX,wmsj.cn
+  - DOMAIN-SUFFIX,wmsjsteam.com
+  - DOMAIN-SUFFIX,tnkjmec.com
+  - DOMAIN-SUFFIX,8686c.com
+  - DOMAIN-SUFFIX,pphimalayanrt.com
+  - DOMAIN-SUFFIX,cm.steampowered.com
