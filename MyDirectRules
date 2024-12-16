@@ -4166,8 +4166,7 @@ rules:
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
+  - DOMAIN-SUFFIX,onedrive.com,USER-AGENT,OneDrive*
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDriveUpdater
 #Xiaomi
@@ -4299,3 +4298,4 @@ USER-AGENT,OneDriveiOSApp*
   - IP-CIDR,47.241.176.221/32,no-resolve
   - IP-CIDR,58.220.58.152/31,no-resolve
   - IP-CIDR,58.220.59.2/32,no-resolve
+  - PROCESS-NAME,极空间
