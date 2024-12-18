@@ -4,6 +4,7 @@ rules:
   - DOMAIN-SUFFIX,event-tracking.lbkrs.com
   - DOMAIN-SUFFIX,longbridge.com
   - DOMAIN-SUFFIX,longportapp.com
+  - IP-CIDR,18.163.178.98
 # TradingView 规则集
   - DOMAIN-SUFFIX,api.tradingview.com
   - DOMAIN-SUFFIX,www.tradingview.com
