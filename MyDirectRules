@@ -189,6 +189,7 @@ rules:
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,SRManager.exe
   - PROCESS-NAME,gamingservices.exe
+  - PROCESS-NAME,Cyberpunk2077.exe
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,microsoft.com.cn
   - DOMAIN-SUFFIX,windowsupdate.com
