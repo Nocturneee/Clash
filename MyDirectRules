@@ -187,7 +187,8 @@ rules:
   - PROCESS-NAME,QQMusic.exe
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,aria2c.exe
-  - PROCESS-NAMESRManager.exe
+  - PROCESS-NAME,SRManager.exe
+  - PROCESS-NAME,gamingservices.exe
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,microsoft.com.cn
   - DOMAIN-SUFFIX,windowsupdate.com
