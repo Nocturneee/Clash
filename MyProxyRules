@@ -107,4 +107,5 @@ rules:
   - IP-CIDR,69.0.0.0/16
   - IP-CIDR,103.0.0.0/16
   - DOMAIN-KEYWORD,viber-aws
+  - PROCESS-NAME,obs64.exe
   - DOMAIN-KEYWORD,viber-akamai
