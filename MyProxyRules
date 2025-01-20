@@ -24,6 +24,7 @@ rules:
   - DOMAIN-KEYWORD,nssurge.com
 
   # Suffix Rules
+  - DOMAIN-SUFFIX,o.ss2.us
   - DOMAIN-SUFFIX,ingest.contribute.live-video.net
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,cdn-fastly.obsproject.com
