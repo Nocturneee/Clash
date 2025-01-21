@@ -10,7 +10,6 @@ rules:
   - DOMAIN-KEYWORD,quote,YahooFinanceProxy
   - DOMAIN-KEYWORD,stocks,YahooFinanceProxy
   - DOMAIN-KEYWORD,market,YahooFinanceProxy
-  # Key-Word Rules
   - DOMAIN-KEYWORD,www.coze.com
   - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,mastodon
@@ -24,6 +23,8 @@ rules:
   - DOMAIN-KEYWORD,nssurge.com
 
   # Suffix Rules
+  - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,o.ss2.us
   - DOMAIN-SUFFIX,ingest.contribute.live-video.net
   - DOMAIN-SUFFIX,obsproject.com
