@@ -1,4 +1,30 @@
 rules:
+#AppLovin
+  - DOMAIN-KEYWORD,applovin
+#Crypto related
+  - DOMAIN-KEYWORD,crypto
+  - DOMAIN-SUFFIX,s.zkcdn.net
+  - DOMAIN-SUFFIX,kev.geckad.com
+  - DOMAIN-SUFFIX,assets.coingecko.com
+  - DOMAIN-SUFFIX,geckad.com
+  - DOMAIN-KEYWORD,coingecko
+#Metamask related
+  - DOMAIN-KEYWORD,infura
+  - DOMAIN-SUFFIX,arbitrum-mainnet.infura.io
+  - DOMAIN-SUFFIX,linea-goerli.infura.io
+  - DOMAIN-SUFFIX,fn.segmentapis.com
+#OKX
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+#胜利证券 (RWBKR)
+  - DOMAIN-KEYWORD,rwbkr
+  - DOMAIN-SUFFIX,open.rwbkr.com
+  - DOMAIN-SUFFIX,a0wwsv-inapps.appsflyersdk.com
+  - DOMAIN-SUFFIX,notify.rwbkr.com
+  - DOMAIN-SUFFIX,ccp.rwbkr.com
+  - DOMAIN-SUFFIX,a0wwsv-launches.appsflyersdk.com
+  - DOMAIN-SUFFIX,a0wwsv-gcdsdk.appsflyersdk.com
+  - DOMAIN-SUFFIX,news.rwbkr.com
+```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 # 长桥证券网页
   - DOMAIN-SUFFIX,event.lbkrs.com
   - DOMAIN-SUFFIX,event-tracking.lbkrs.com
