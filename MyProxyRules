@@ -23,6 +23,7 @@ rules:
   - DOMAIN-KEYWORD,nssurge.com
 
   # Suffix Rules
+  - DOMAIN-SUFFIX,freedidi.com
   - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,o.ss2.us
