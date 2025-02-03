@@ -1,37 +1,19 @@
 rules:
-#AppLovin
-  - DOMAIN-KEYWORD,applovin
-#Crypto related
-  - DOMAIN-KEYWORD,crypto
-  - DOMAIN-SUFFIX,s.zkcdn.net
-  - DOMAIN-SUFFIX,kev.geckad.com
-  - DOMAIN-SUFFIX,assets.coingecko.com
-  - DOMAIN-SUFFIX,geckad.com
-  - DOMAIN-KEYWORD,coingecko
-#Metamask related
-  - DOMAIN-KEYWORD,infura
-  - DOMAIN-SUFFIX,arbitrum-mainnet.infura.io
-  - DOMAIN-SUFFIX,linea-goerli.infura.io
-  - DOMAIN-SUFFIX,fn.segmentapis.com
-#OKX
-  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-#胜利证券 (RWBKR)
+  # 胜利证券
+  - DOMAIN-SUFFIX,accountopen.victorysec.com.hk
   - DOMAIN-KEYWORD,rwbkr
   - DOMAIN-SUFFIX,open.rwbkr.com
-  - DOMAIN-SUFFIX,a0wwsv-inapps.appsflyersdk.com
   - DOMAIN-SUFFIX,notify.rwbkr.com
   - DOMAIN-SUFFIX,ccp.rwbkr.com
-  - DOMAIN-SUFFIX,a0wwsv-launches.appsflyersdk.com
-  - DOMAIN-SUFFIX,a0wwsv-gcdsdk.appsflyersdk.com
   - DOMAIN-SUFFIX,news.rwbkr.com
-```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-# 长桥证券网页
+  - DOMAIN-SUFFIX,notify.rwbkr.com
+  # 长桥证券网页
   - DOMAIN-SUFFIX,event.lbkrs.com
   - DOMAIN-SUFFIX,event-tracking.lbkrs.com
   - DOMAIN-SUFFIX,longbridge.com
   - DOMAIN-SUFFIX,longportapp.com
-  - IP-CIDR,18.163.178.98
-# TradingView 规则集
+  - IP-CIDR,18.163.178.98/32
+  # TradingView
   - DOMAIN-SUFFIX,api.tradingview.com
   - DOMAIN-SUFFIX,www.tradingview.com
   - DOMAIN-SUFFIX,chart.tradingview.com
@@ -59,7 +41,6 @@ rules:
   - DOMAIN-KEYWORD,brokerage
   - DOMAIN-KEYWORD,investing
   - DOMAIN-KEYWORD,trading
-
   # Alipay HK
   - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,alipay-corp.com
@@ -82,7 +63,6 @@ rules:
   - DOMAIN-SUFFIX,ifaa.org.cn
   - DOMAIN-SUFFIX,luohanacademy.com
   - DOMAIN-SUFFIX,sinopayment.com.cn
-
   # Interactive Brokers
   - DOMAIN-SUFFIX,ocsp.digicert.com
   - DOMAIN-SUFFIX,c.go-mpulse.net
@@ -122,7 +102,6 @@ rules:
   - PROCESS-NAME,ib-mobile
   - PROCESS-NAME,ibgateway
   - OR,((DOMAIN-SUFFIX,interactivebrokers.com),(IP-CIDR,169.62.208.0/20))
-
   # Yahoo
   - DOMAIN-SUFFIX,yahoo.com,YahooFinanceProxy
   - DOMAIN-SUFFIX,finance.yahoo.com,YahooFinanceProxy
@@ -130,29 +109,6 @@ rules:
   - DOMAIN-SUFFIX,yahooapis.com,YahooFinanceProxy
   - DOMAIN-KEYWORD,finance,YahooFinanceProxy
   - DOMAIN-KEYWORD,yahoo,YahooFinanceProxy
-
-  # Binance
-  - DOMAIN-SUFFIX,public.nftstatic.com
-  - DOMAIN-SUFFIX,api.saasexch.co
-  - DOMAIN-SUFFIX,www.mokexweb.me
-  - IP-CIDR,35.77.148.188/32
-  - DOMAIN-SUFFIX,zftksc-launches.appsflyersdk.com
-  - DOMAIN-SUFFIX,530c098a-e3fa-4ee4-9a09-b6bd98656c4a-addfd325e6e3.cdn.forter.com
-  - DOMAIN-SUFFIX,www.binance.info
-  - DOMAIN-SUFFIX,appsflayer.com
-  - DOMAIN-SUFFIX,binance.cloud
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,binance.me
-  - DOMAIN-SUFFIX,binancecnt.com
-  - DOMAIN-SUFFIX,binancefuture.com
-  - DOMAIN-SUFFIX,bnappzh.co
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,bnbzh.ac
-  - DOMAIN-SUFFIX,bntrace.com
-  - DOMAIN-SUFFIX,saasexch.cc
-  - DOMAIN-SUFFIX,api.saasexch.io
-  - DOMAIN-SUFFIX,saasexch.com
-
   # HSBC
   - DOMAIN-SUFFIX,hsbc.com
   - DOMAIN-SUFFIX,hsbc.co.uk
@@ -164,3 +120,5 @@ rules:
   - DOMAIN-SUFFIX,hsbc.co.in
   - DOMAIN-SUFFIX,hsbc.fr
   - DOMAIN-SUFFIX,hsbc.de
+  - DOMAIN-SUFFIX,hsbc.com.mx
+  - DOMAIN-SUFFIX,sy.msghist.liveperson.net
