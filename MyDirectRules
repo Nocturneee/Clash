@@ -1,4 +1,9 @@
 rules:
+  - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,vh.api.okaapps.com
+  - DOMAIN-SUFFIX,image.tmdb.org
+  - DOMAIN-SUFFIX,api.7littlemen.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
   #Steam
   - DOMAIN-SUFFIX,ocsp.comodoca.com
   - DOMAIN-SUFFIX,ocsp.usertrust.com
